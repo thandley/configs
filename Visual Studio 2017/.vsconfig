@@ -1,0 +1,31 @@
+{
+	"version": "1.0",
+	"components": [
+		"Microsoft.VisualStudio.Workload.ManagedDesktop",
+		"Microsoft.VisualStudio.Workload.NetWeb",
+		"Microsoft.VisualStudio.Workload.Azure",
+		"Microsoft.VisualStudio.Workload.Data",
+		"Microsoft.VisualStudio.Workload.NetCoreTools",
+		"microsoft.net.componentgroup.targetingpacks.common",
+		"microsoft.componentgroup.blend",
+		"microsoft.visualstudio.component.entityframework",
+		"microsoft.visualstudio.component.debugger.justintime",
+		"microsoft.visualstudio.component.wcf.tooling",
+		"microsoft.visualstudio.component.appinsights.tools",
+		"microsoft.visualstudio.componentgroup.web.cloudtools",
+		"microsoft.visualstudio.component.aspnet45",
+		"microsoft.visualstudio.component.webdeploy",
+		"microsoft.visualstudio.componentgroup.iisdevelopment",
+		"microsoft.visualstudio.web.mvc4.componentgroup",
+		"microsoft.netcore.componentgroup.web",
+		"microsoft.component.azure.datalake.tools",
+		"microsoft.visualstudio.componentgroup.azure.resourcemanager.tools",
+		"microsoft.visualstudio.componentgroup.azure.cloudservices",
+		"microsoft.visualstudio.component.azure.mobileappssdk",
+		"microsoft.visualstudio.component.azure.servicefabric.tools",
+		"component.redgate.sqlsearch.vsextension",
+		"microsoft.visualstudio.component.typescript.2.2",
+		"microsoft.visualstudio.component.typescript.2.5",
+		"microsoft.visualstudio.component.typescript.2.8"
+	]
+}
